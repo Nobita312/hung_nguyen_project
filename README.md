@@ -2,7 +2,7 @@
 Báo cáo học phần Công nghệ Website – Đề tài: Xây dựng Website Book  
 
 ## Giảng viên hướng dẫn
-TS. Ngô Lê Quân  
+ThS. Ngô Lê Quân  
 
 ## Sinh viên thực hiện
 - Nguyễn Quốc Hưng – 22IM009  
